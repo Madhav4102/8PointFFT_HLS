@@ -1,0 +1,62 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# 
+# Start of session at: Tue Dec  3 09:56:10 2024
+# Process ID: 12744
+# Current directory: C:/Users/HP/Desktop/ELD_2024/LAB12/LAB12.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/HP/Desktop/ELD_2024/LAB12/LAB12.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/HP/Desktop/ELD_2024/LAB12/LAB12.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
+# webtalk_init -webtalk_dir C:\\Users\\HP\\Desktop\\ELD_2024\\LAB12\\LAB12.sdk\\webtalk
+# webtalk_register_client -client project
+# webtalk_add_data -client project -key date_generated -value "2024-12-03 09:56:08" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key product_version -value "SDK v2019.1" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key build_version -value "2019.1" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key os_platform -value "amd64" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key registration_id -value "211433259_1777510721_210765779_928" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key tool_flow -value "SDK" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key beta -value "false" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key route_design -value "NA" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key target_family -value "NA" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key target_device -value "NA" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key target_package -value "NA" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key target_speed -value "NA" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key random_id -value "8qkc4r4m1fjotc53ufd6p1f9i9" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key project_id -value "2019.1_16" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key project_iteration -value "16" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key os_name -value "Microsoft Windows 8 or later , 64-bit" -context "user_environment"
+# webtalk_add_data -client project -key os_release -value "major release  (build 9200)" -context "user_environment"
+# webtalk_add_data -client project -key cpu_name -value "AMD Ryzen 5 5600U with Radeon Graphics         " -context "user_environment"
+# webtalk_add_data -client project -key cpu_speed -value "2296 MHz" -context "user_environment"
+# webtalk_add_data -client project -key total_processors -value "2" -context "user_environment"
+# webtalk_add_data -client project -key system_ram -value "16.481 GB" -context "user_environment"
+# webtalk_register_client -client sdk
+# webtalk_add_data -client sdk -key uid -value "1733198550887" -context "sdk\\\\bsp/1733198550887"
+# webtalk_add_data -client sdk -key hwid -value "1733198379118" -context "sdk\\\\bsp/1733198550887"
+# webtalk_add_data -client sdk -key os -value "standalone" -context "sdk\\\\bsp/1733198550887"
+# webtalk_add_data -client sdk -key apptemplate -value "hello_world" -context "sdk\\\\bsp/1733198550887"
+# webtalk_add_data -client sdk -key RecordType -value "BSPCreation" -context "sdk\\\\bsp/1733198550887"
+# webtalk_add_data -client sdk -key uid -value "1733198558922" -context "sdk\\\\application/1733198558922"
+# webtalk_add_data -client sdk -key hwid -value "1733198379118" -context "sdk\\\\application/1733198558922"
+# webtalk_add_data -client sdk -key bspid -value "1733198550887" -context "sdk\\\\application/1733198558922"
+# webtalk_add_data -client sdk -key newbsp -value "true" -context "sdk\\\\application/1733198558922"
+# webtalk_add_data -client sdk -key os -value "standalone" -context "sdk\\\\application/1733198558922"
+# webtalk_add_data -client sdk -key apptemplate -value "hello_world" -context "sdk\\\\application/1733198558922"
+# webtalk_add_data -client sdk -key RecordType -value "APPCreation" -context "sdk\\\\application/1733198558922"
+# webtalk_add_data -client sdk -key LangUsed -value "C" -context "sdk\\\\application/1733198558922"
+# webtalk_add_data -client sdk -key Procused -value "ps7_cortexa9" -context "sdk\\\\application/1733198558922"
+# webtalk_add_data -client sdk -key projSize -value "385.49609375" -context "sdk\\\\application/1733198558922"
+# webtalk_add_data -client sdk -key uid -value "NA" -context "sdk\\\\bsp/1733199968239"
+# webtalk_add_data -client sdk -key RecordType -value "ToolUsage" -context "sdk\\\\bsp/1733199968239"
+# webtalk_add_data -client sdk -key BootgenCount -value "0" -context "sdk\\\\bsp/1733199968239"
+# webtalk_add_data -client sdk -key DebugCount -value "3" -context "sdk\\\\bsp/1733199968239"
+# webtalk_add_data -client sdk -key PerfCount -value "0" -context "sdk\\\\bsp/1733199968239"
+# webtalk_add_data -client sdk -key FlashCount -value "0" -context "sdk\\\\bsp/1733199968239"
+# webtalk_add_data -client sdk -key CrossTriggCount -value "0" -context "sdk\\\\bsp/1733199968239"
+# webtalk_add_data -client sdk -key QemuDebugCount -value "0" -context "sdk\\\\bsp/1733199968239"
+# webtalk_transmit -clientid 3951076730 -regid "211433259_1777510721_210765779_928" -xml C:\\Users\\HP\\Desktop\\ELD_2024\\LAB12\\LAB12.sdk\\webtalk\\usage_statistics_ext_sdk.xml -html C:\\Users\\HP\\Desktop\\ELD_2024\\LAB12\\LAB12.sdk\\webtalk\\usage_statistics_ext_sdk.html -wdm C:\\Users\\HP\\Desktop\\ELD_2024\\LAB12\\LAB12.sdk\\webtalk\\sdk_webtalk.wdm -intro "<H3>SDK Usage Report</H3><BR>"
+# webtalk_terminate
+INFO: [Common 17-206] Exiting Webtalk at Tue Dec  3 09:56:20 2024...
